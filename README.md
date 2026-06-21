@@ -2,7 +2,7 @@
 
 活動報名網站。GitHub Pages 網址：
 
-尚未部署
+https://kirkchu.github.io/2026workshop_demo/
 
 ## Google Sheet 與 Apps Script 部署
 
